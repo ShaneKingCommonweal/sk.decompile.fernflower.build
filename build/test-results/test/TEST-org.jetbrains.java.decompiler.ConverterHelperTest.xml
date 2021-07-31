@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jetbrains.java.decompiler.ConverterHelperTest" tests="39" skipped="0" failures="0" errors="0" timestamp="2021-07-31T11:03:18" hostname="travis-job-6e9980ae-4ea3-4091-af7a-10e8362ed75b" time="0.044">
+  <properties/>
+  <testcase name="testUnderscoreMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testInvalidTrailingCharClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testLtInitGtMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testKeywordClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testLtClinitGtFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testShortMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testValidFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testReservedWindowsNamespaceFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testLeadingDigitClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testUnderscoreClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.008"/>
+  <testcase name="testLtClinitGtMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testNullClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testInvalidLeadingCharFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testInvalidMiddleCharMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testShortClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testInvalidTrailingCharFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testKeywordFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testKeywordMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testInvalidLeadingCharMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testLeadingDigitFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testUnderscoreFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testNullFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testEmptyMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testInvalidMiddleCharClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testNullMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testEmptyClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testLtInitGtClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testShortFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testValidMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testLeadingDigitMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testReservedWindowsNamespaceName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testLtClinitGtClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testInvalidMiddleCharFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testValidClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testInvalidTrailingCharMethodName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testEmptyFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testReservedWindowsNamespaceClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <testcase name="testLtInitGtFieldName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.001"/>
+  <testcase name="testInvalidLeadingCharClassName" classname="org.jetbrains.java.decompiler.ConverterHelperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

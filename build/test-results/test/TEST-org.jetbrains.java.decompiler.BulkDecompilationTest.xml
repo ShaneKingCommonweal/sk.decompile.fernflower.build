@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.jetbrains.java.decompiler.BulkDecompilationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-31T11:11:35" hostname="travis-job-30d1ff7d-b062-4c3c-97be-c04091855f82" time="31.47">
+<testsuite name="org.jetbrains.java.decompiler.BulkDecompilationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-31T11:13:18" hostname="travis-job-338a18d2-918e-4922-824f-074696d0d052" time="28.428">
   <properties/>
-  <testcase name="testJar" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.048"/>
-  <testcase name="testKtJar" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.024"/>
-  <testcase name="testObfuscated" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="31.385"/>
-  <testcase name="testDirectory" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.012"/>
+  <testcase name="testJar" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.044"/>
+  <testcase name="testKtJar" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.014"/>
+  <testcase name="testObfuscated" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="28.36"/>
+  <testcase name="testDirectory" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.009"/>
   <system-out><![CDATA[WARN:  Method d (Ljava/lang/String;)Ljava/lang/String; couldn't be decompiled.
 java.lang.RuntimeException: parsing failure!
 	at org.jetbrains.java.decompiler.modules.decompiler.DomHelper.parseGraph(DomHelper.java:203)

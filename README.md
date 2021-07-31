@@ -1,1 +1,1 @@
-# sk.decompile.fernflower.offline
+# sk.decompile.fernflower.build

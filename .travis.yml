@@ -9,8 +9,8 @@ jdk:
   - openjdk8
 
 before_install:
-  - chmod +x ./offline.sh
-  - ./offline.sh
+  - chmod +x ./build.sh
+  - ./build.sh
 
 script:
   - echo hello

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.jetbrains.java.decompiler.BulkDecompilationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-31T11:18:20" hostname="travis-job-d6153043-eddf-4636-b412-c574b00ceedd" time="29.712">
+<testsuite name="org.jetbrains.java.decompiler.BulkDecompilationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-31T11:20:01" hostname="travis-job-609dbc89-21bb-4150-b7fd-ab24a966ee23" time="29.559">
   <properties/>
-  <testcase name="testJar" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.048"/>
+  <testcase name="testJar" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.052"/>
   <testcase name="testKtJar" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.015"/>
-  <testcase name="testObfuscated" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="29.636"/>
-  <testcase name="testDirectory" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.012"/>
+  <testcase name="testObfuscated" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="29.483"/>
+  <testcase name="testDirectory" classname="org.jetbrains.java.decompiler.BulkDecompilationTest" time="0.009"/>
   <system-out><![CDATA[WARN:  Method d (Ljava/lang/String;)Ljava/lang/String; couldn't be decompiled.
 java.lang.RuntimeException: parsing failure!
 	at org.jetbrains.java.decompiler.modules.decompiler.DomHelper.parseGraph(DomHelper.java:203)
@@ -2225,7 +2225,6 @@ java.lang.RuntimeException: parsing failure!
 	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
 	at java.base/java.lang.Thread.run(Thread.java:834)
 WARN:  Heavily obfuscated exception ranges found!
-ERROR: Statement cannot be decomposed although reducible!
 WARN:  Method d ()Z couldn't be decompiled.
 java.lang.RuntimeException: parsing failure!
 	at org.jetbrains.java.decompiler.modules.decompiler.DomHelper.parseGraph(DomHelper.java:203)

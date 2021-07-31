@@ -11,8 +11,9 @@ cd ../
 
 [[ -d sk.decompile.fernflower.build ]] && rm -rf sk.decompile.fernflower.build
 git clone "https://github.com/ShaneKingCommonweal/sk.decompile.fernflower.build.git"
-rm -rf sk.decompile.fernflower.build/build
-cp -r fernflower/build sk.decompile.fernflower.build
+rm -rf sk.decompile.fernflower.build/build/libs
+mkdir -p sk.decompile.fernflower.build/build/libs
+cp -r fernflower/build/libs sk.decompile.fernflower.build/build
 
 cd sk.decompile.fernflower.build
 git pull

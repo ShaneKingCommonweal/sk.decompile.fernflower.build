@@ -1,0 +1,8 @@
+container:
+  image: maven:latest
+
+task:
+  name: Cirrus CI
+  maven_cache:
+    folder: ~/.m2
+  test_script: chmod +x ./build.sh && ./build.sh && echo hello
